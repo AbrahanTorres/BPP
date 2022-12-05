@@ -1,0 +1,1 @@
+Una fórmula para calcular la potencia es P = T / t, donde 'T' equivale a 'trabajo' (en julios) y 't' se corresponde con el 'tiempo' (en segundos)
